@@ -57,6 +57,12 @@ h1, h2, h3, h4, h5, h6 {
     transition: .5s;
 }
 
+.text-primary22 {
+    color: #000000; 
+    margin-left: 50px;
+    padding: 10px 20px;
+}
+
 .btn.btn-primary,
 .btn.btn-secondary {
     color: #000000;
